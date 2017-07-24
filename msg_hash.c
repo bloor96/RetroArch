@@ -78,6 +78,9 @@ int menu_hash_get_help_enum(enum msg_hash_enums msg, char *s, size_t len)
       case RETRO_LANGUAGE_CHINESE_TRADITIONAL:
          ret = menu_hash_get_help_cht_enum(msg, s, len);
          break;
+      case RETRO_LANGUAGE_PERSIAN:
+         ret = menu_hash_get_help_fa_enum(msg, s, len);
+         break;
       default:
          break;
    }
