@@ -144,6 +144,9 @@ const char *msg_hash_to_str(enum msg_hash_enums msg)
       case RETRO_LANGUAGE_CHINESE_TRADITIONAL:
          ret = msg_hash_to_str_cht(msg);
          break;
+      case RETRO_LANGUAGE_PERSIAN:
+         ret = msg_hash_to_str_fa(msg);
+         break;
       default:
          break;
    }
