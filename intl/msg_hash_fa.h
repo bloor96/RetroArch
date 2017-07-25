@@ -40,38 +40,45 @@ MSG_HASH(
       MSG_NO_ARGUMENTS_SUPPLIED_AND_NO_MENU_BUILTIN,
       "No arguments supplied and no menu builtin, displaying help..."
       "هیچ آرگومانی ارائه نشده است و منویی ساخته نشده, در حال نمایش کمک..."
-MSG_HASH(
       )
+MSG_HASH(
       MSG_NETPLAY_USERS_HAS_FLIPPED,
       "Netplay users have flipped"
-      "Netplay users have flipped"
+      "کاربران نت پلی تلنگر خوردند"
       )
 MSG_HASH(
       MSG_SETTING_DISK_IN_TRAY,
       "Setting disk in tray"
+      "دیسک تنظیمات داخل درایو"
       )
 MSG_HASH(
       MSG_WAITING_FOR_CLIENT,
       "Waiting for client ..."
+      "در انتظار کاربر..."
       )
 MSG_HASH(
       MSG_NETPLAY_YOU_HAVE_LEFT_THE_GAME,
       "You have left the game"
+      "شما بازی رو ترک کردید"
       )
 MSG_HASH(
       MSG_NETPLAY_YOU_HAVE_JOINED_AS_PLAYER_N,
       "You have joined as player %d"
+      "شما به عنوان بازیکن اضافه شدید %d"
       )
 MSG_HASH(
       MSG_NETPLAY_IMPLEMENTATIONS_DIFFER,
       "Implementations differ. Make sure you're using the exact same versions of RetroArch and the core."
+      ".پیاده سازی ها متفاوت هستند. اطمینان حاصل کنید که از نسخه های دقیقا یکسان رتروآرک و هسته استفاده می کنید" 
       )
 MSG_HASH(
       MSG_NETPLAY_ENDIAN_DEPENDENT,
       "This core does not support inter-architecture netplay between these systems"
+      "این هسته معماری-واسط نت پلی بین این سیستم ها را پشتیبانی نمی کند"
       )
 MSG_HASH(
       MSG_NETPLAY_PLATFORM_DEPENDENT,
+      "This core does not support inter-architecture netplay"
       "This core does not support inter-architecture netplay"
       )
 MSG_HASH(
