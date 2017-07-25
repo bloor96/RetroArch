@@ -1,41 +1,49 @@
 MSG_HASH(
       MSG_COMPILER,
-      "Compiler"
+      "کامپایلر"
       )
 MSG_HASH(
       MSG_UNKNOWN_COMPILER,
-      "Unknown compiler"
+      "کامپایلر ناشناخته"
       )
 MSG_HASH(
       MSG_DEVICE_DISCONNECTED_FROM_PORT,
       "Device disconnected from port"
+      "دستگاه از پورت جدا شد"  
       )
 MSG_HASH(
       MSG_UNKNOWN_NETPLAY_COMMAND_RECEIVED,
       "Unknown netplay command received"
+      "دستور نتپلی ناشناخته دریافت شد"   
       )
 MSG_HASH(
       MSG_FILE_ALREADY_EXISTS_SAVING_TO_BACKUP_BUFFER,
       "File already exists. Saving to backup buffer"
+      "فایل در حال حاضر وجود دارد. در بافر پیشتیبان ذخیره می شود"
       )
 MSG_HASH(
       MSG_GOT_CONNECTION_FROM,
       "Got connection from: \"%s\""
+      "اتصال دریافت شد از: \"%s\""
       )
 MSG_HASH(
       MSG_GOT_CONNECTION_FROM_NAME,
-      "Got connection from: \"%s (%s)\""
+      "Got connection from: \"%s (%s)\"
+      "اتصال دریافت شد از: \"%s (%s)\"" 
       )
 MSG_HASH(
       MSG_PUBLIC_ADDRESS,
       "Public address"
+      "آدرس عمومی"
       )
 MSG_HASH(
       MSG_NO_ARGUMENTS_SUPPLIED_AND_NO_MENU_BUILTIN,
       "No arguments supplied and no menu builtin, displaying help..."
-      )
+      "هیچ آرگومانی ارائه نشده است و منویی ساخته نشده, در حال نمایش کمک..."
 MSG_HASH(
+      )
       MSG_NETPLAY_USERS_HAS_FLIPPED,
+      "Netplay users have flipped"
       "Netplay users have flipped"
       )
 MSG_HASH(
