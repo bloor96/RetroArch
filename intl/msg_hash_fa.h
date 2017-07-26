@@ -212,176 +212,211 @@ MSG_HASH(
 MSG_HASH(
       MENU_ENUM_LABEL_VALUE_ACCOUNTS_LIST_END,
       "Accounts List Endpoint"
-      "آخر لیست حسابها"
+      "نقطه آخر لیست حسابها"
       )
 MSG_HASH(
       MENU_ENUM_LABEL_VALUE_ACCOUNTS_RETRO_ACHIEVEMENTS,
       "Retro Achievements"
-      "Retro Achievements"
+      "Retro دستاوردهای"
       )
 MSG_HASH(
       MENU_ENUM_LABEL_VALUE_ACHIEVEMENT_LIST,
-      "Achievement List"
+      "فهرست دستاورد"
       )
 MSG_HASH(
       MENU_ENUM_LABEL_VALUE_ACHIEVEMENT_LIST_HARDCORE,
-      "Achievement List (Hardcore)"
+      "فهرست دستاورد (Hardcore)"
       )
 MSG_HASH(
       MENU_ENUM_LABEL_VALUE_ADD_CONTENT_LIST,
       "Scan Content"
+      "محتوای اسکن"
       )
 MSG_HASH(
       MENU_ENUM_LABEL_VALUE_CONFIGURATIONS_LIST,
       "Configurations"
+      "پیکربندی"
       )
 MSG_HASH(
       MENU_ENUM_LABEL_VALUE_ADD_TAB,
       "Import content"
+      "وارد کردن محتوا"
       )
 MSG_HASH(
       MENU_ENUM_LABEL_VALUE_NETPLAY_TAB,
       "Netplay Rooms"
+      "اتاق های نت پلی"
       )
 MSG_HASH(
       MENU_ENUM_LABEL_VALUE_ASK_ARCHIVE,
       "Ask"
+      "خواستن"
       )
 MSG_HASH(
       MENU_ENUM_LABEL_VALUE_ASSETS_DIRECTORY,
       "Assets"
+      "دارایی ها"
       )
 MSG_HASH(
       MENU_ENUM_LABEL_VALUE_AUDIO_BLOCK_FRAMES,
       "Block Frames"
+      "بلاک فریم ها"
       )
 MSG_HASH(
       MENU_ENUM_LABEL_VALUE_AUDIO_DEVICE,
       "Audio Device"
+      "دستگاه صدا"
       )
 MSG_HASH(
       MENU_ENUM_LABEL_VALUE_AUDIO_DRIVER,
       "Audio Driver"
+      "درایور صدا"
       )
 MSG_HASH(
       MENU_ENUM_LABEL_VALUE_AUDIO_DSP_PLUGIN,
       "Audio DSP Plugin"
+      "پلاگین DSP صوتی"
       )
 MSG_HASH(
       MENU_ENUM_LABEL_VALUE_AUDIO_ENABLE,
       "Audio Enable"
+      "صدا فعال"
       )
 MSG_HASH(
       MENU_ENUM_LABEL_VALUE_AUDIO_FILTER_DIR,
       "Audio Filter"
+      "فیلتر صوتی"
       )
 MSG_HASH(
       MENU_ENUM_LABEL_VALUE_TURBO_DEADZONE_LIST,
       "Turbo/Deadzone"
+      "توربو/منطقه مرده"
       )
 MSG_HASH(
       MENU_ENUM_LABEL_VALUE_AUDIO_LATENCY,
       "Audio Latency (ms)"
+      "تأخیر صوتی (ms)"
       )
 MSG_HASH(
       MENU_ENUM_LABEL_VALUE_AUDIO_MAX_TIMING_SKEW,
       "Audio Maximum Timing Skew"
+      "حداکثر انحراف زمانی صدا"
       )
 MSG_HASH(
       MENU_ENUM_LABEL_VALUE_AUDIO_MUTE,
       "Audio Mute"
+      "بی صدا"
       )
 MSG_HASH(
       MENU_ENUM_LABEL_VALUE_AUDIO_OUTPUT_RATE,
       "Audio Output Rate (Hz)"
+      "نرخ خروجی صدا (Hz)"
       )
 MSG_HASH(
       MENU_ENUM_LABEL_VALUE_AUDIO_RATE_CONTROL_DELTA,
       "Dynamic Audio Rate Control"
+      "کنترل نرخ صدا به صورت پویا"
       )
 MSG_HASH(
       MENU_ENUM_LABEL_VALUE_AUDIO_RESAMPLER_DRIVER,
       "Audio Resampler Driver"
+      "درایور Resampler صدا"
       )
 MSG_HASH(
       MENU_ENUM_LABEL_VALUE_AUDIO_SETTINGS,
       "Audio"
+      "صدا"
       )
 MSG_HASH(
       MENU_ENUM_LABEL_VALUE_AUDIO_SYNC,
       "Audio Sync"
+      "همگام سازی صدا"
       )
 MSG_HASH(
       MENU_ENUM_LABEL_VALUE_AUDIO_VOLUME,
       "Audio Volume Level (dB)"
+      "میزان حجم صدا (دسی بل)"
       )
 MSG_HASH(
       MENU_ENUM_LABEL_VALUE_AUDIO_WASAPI_EXCLUSIVE_MODE,
       "WASAPI Exclusive Mode"
+      "WASAPI حالت منحصر به فرد"
       )
 MSG_HASH(
       MENU_ENUM_LABEL_VALUE_AUDIO_WASAPI_FLOAT_FORMAT,
       "WASAPI Float Format"
+      "فرمت شناور WASAPI"
       )
 MSG_HASH(
       MENU_ENUM_LABEL_VALUE_AUDIO_WASAPI_SH_BUFFER_LENGTH,
       "WASAPI Shared Buffer Length"
+      "طول به اشتراک گذاشته بافر WASAPI"
       )
 MSG_HASH(
       MENU_ENUM_LABEL_VALUE_AUTOSAVE_INTERVAL,
       "SaveRAM Autosave Interval"
+      "SaveRAM فاصله ذخیره خودکار"
       )
 MSG_HASH(
       MENU_ENUM_LABEL_VALUE_AUTO_OVERRIDES_ENABLE,
       "Load Override Files Automatically"
+      "بارگذاری خودکار فایل های برتر"
       )
 MSG_HASH(
       MENU_ENUM_LABEL_VALUE_AUTO_REMAPS_ENABLE,
       "Load Remap Files Automatically"
+      "بار گذاری خودکار فایل های Remap"
       )
 MSG_HASH(
       MENU_ENUM_LABEL_VALUE_AUTO_SHADERS_ENABLE,
       "Load Shader Presets Automatically"
+      "بارگذاری پیش فرض های سایه زن به صورت خودکار"
       )
 MSG_HASH(
       MENU_ENUM_LABEL_VALUE_BASIC_MENU_CONTROLS_BACK,
       "Back"
+      "برگشت"
       )
 MSG_HASH(
       MENU_ENUM_LABEL_VALUE_BASIC_MENU_CONTROLS_CONFIRM,
-      "Confirm"
+      "تایید"
       )
 MSG_HASH(
       MENU_ENUM_LABEL_VALUE_BASIC_MENU_CONTROLS_INFO,
-      "Info"
+      "اطلاعات"
       )
 MSG_HASH(
       MENU_ENUM_LABEL_VALUE_BASIC_MENU_CONTROLS_QUIT,
-      "Quit"
+      "خروج"
       )
 MSG_HASH(
       MENU_ENUM_LABEL_VALUE_BASIC_MENU_CONTROLS_SCROLL_DOWN,
       "Scroll Down"
+      "حرکت به پایین"
       )
 MSG_HASH(
       MENU_ENUM_LABEL_VALUE_BASIC_MENU_CONTROLS_SCROLL_UP,
       "Scroll Up"
+      "حرکت به بالا"
       )
 MSG_HASH(
       MENU_ENUM_LABEL_VALUE_BASIC_MENU_CONTROLS_START,
-      "Start"
+      "شروع"
       )
 MSG_HASH(
       MENU_ENUM_LABEL_VALUE_BASIC_MENU_CONTROLS_TOGGLE_KEYBOARD,
       "Toggle Keyboard"
+      "تغییر وضعیت صفحه کلید" 
       )
 MSG_HASH(
       MENU_ENUM_LABEL_VALUE_BASIC_MENU_CONTROLS_TOGGLE_MENU,
       "Toggle Menu"
+      "تغییر وضعیت منو" 
       )
 MSG_HASH(
       MENU_ENUM_LABEL_VALUE_BASIC_MENU_ENUM_CONTROLS,
       "Basic menu controls"
+      "کنترل های منوی اصلی"
       )
 MSG_HASH(
       MENU_ENUM_LABEL_VALUE_BASIC_MENU_ENUM_CONTROLS_CONFIRM,
