@@ -153,57 +153,70 @@ MSG_HASH(
 MSG_HASH(
       MSG_AUDIO_VOLUME,
       "Audio volume"
+      "میزان صدا"
       )
 MSG_HASH(
       MSG_AUTODETECT,
       "Autodetect"
+      "شناسایی خودکار"
       )
 MSG_HASH(
       MSG_AUTOLOADING_SAVESTATE_FROM,
       "Auto-loading savestate from"
+      "بارگیری خودکار حالت ذخبره شده از"
       )
 MSG_HASH(
       MSG_CAPABILITIES,
       "Capabilities"
+      "قابلیت ها"
       )
 MSG_HASH(
       MSG_CONNECTING_TO_NETPLAY_HOST,
       "Connecting to netplay host"
+      "اتصال به میزبان نت پلی"
       )
 MSG_HASH(
       MSG_CONNECTING_TO_PORT,
       "Connecting to port"
+      "اتصال به پورت"
       )
 MSG_HASH(
       MSG_CONNECTION_SLOT,
       "Connection slot"
+      "اسلات ارتباط"
       )
 MSG_HASH(
       MSG_SORRY_UNIMPLEMENTED_CORES_DONT_DEMAND_CONTENT_NETPLAY,
       "Sorry, unimplemented: cores that don't demand content cannot participate in netplay."
+      "متاسفانه پیاده سازی نشده: هسته هایی که محتوای مورد نیاز را درخواست نمی کنند، نمی توانند در نت پلی شرکت کنند."
       )
 MSG_HASH(
       MENU_ENUM_LABEL_VALUE_ACCOUNTS_CHEEVOS_PASSWORD,
-      "Password"
+      "رمز عبور"
       )
 MSG_HASH(
       MENU_ENUM_LABEL_VALUE_ACCOUNTS_CHEEVOS_SETTINGS,
       "Accounts Cheevos"
+      "حساب های Cheevos"
       )
 MSG_HASH(
       MENU_ENUM_LABEL_VALUE_ACCOUNTS_CHEEVOS_USERNAME,
       "Username"
+      "نام کاربری"
       )
 MSG_HASH(
       MENU_ENUM_LABEL_VALUE_ACCOUNTS_LIST,
       "Accounts"
+      "حساب ها"
       )
 MSG_HASH(
       MENU_ENUM_LABEL_VALUE_ACCOUNTS_LIST_END,
       "Accounts List Endpoint"
+      "آخر لیست حسابها"
       )
 MSG_HASH(
       MENU_ENUM_LABEL_VALUE_ACCOUNTS_RETRO_ACHIEVEMENTS,
+      "Retro Achievements"
       "Retro Achievements"
       )
 MSG_HASH(
