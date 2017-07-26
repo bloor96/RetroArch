@@ -79,47 +79,57 @@ MSG_HASH(
 MSG_HASH(
       MSG_NETPLAY_PLATFORM_DEPENDENT,
       "This core does not support inter-architecture netplay"
-      "This core does not support inter-architecture netplay"
+      "این هسته معماری-واسط نت پلی را پشتیبانی نمی کند"
       )
 MSG_HASH(
       MSG_NETPLAY_ENTER_PASSWORD,
       "Enter netplay server password:"
+      "رمز عبور سرور نت پلی را وارد کنید:"
       )
 MSG_HASH(
       MSG_NETPLAY_INCORRECT_PASSWORD,
       "Incorrect password"
+      "رمز عبور اشتباه است"
       )
 MSG_HASH(
       MSG_NETPLAY_SERVER_NAMED_HANGUP,
       "\"%s\" has disconnected"
+      "\"%s\" قطع شد"
       )
 MSG_HASH(
       MSG_NETPLAY_SERVER_HANGUP,
       "A netplay client has disconnected"
+      "یک کاربر نت پلی قطع شده"
       )
 MSG_HASH(
       MSG_NETPLAY_CLIENT_HANGUP,
       "Netplay disconnected"
+      "نت پلی قطع شد"
       )
 MSG_HASH(
       MSG_NETPLAY_CANNOT_PLAY_UNPRIVILEGED,
       "You do not have permission to play"
+      "شما مجوز بازی ندارید"
       )
 MSG_HASH(
       MSG_NETPLAY_CANNOT_PLAY_NO_SLOTS,
       "There are no free player slots"
+      "هیچ جایگاه بازیکن آزاد وجود ندارد"
       )
 MSG_HASH(
       MSG_NETPLAY_CANNOT_PLAY,
       "Cannot switch to play mode"
+      "نمی توان به حالت بازی تغییر کرد"
       )
 MSG_HASH(
       MSG_NETPLAY_PEER_PAUSED,
       "Netplay peer \"%s\" paused"
+      "همبازی نت پلی \"%s\" متوقف شد"
       )
 MSG_HASH(
       MSG_NETPLAY_CHANGED_NICK,
       "Your nickname changed to \"%s\""
+      "نام مستعار شما تغییر کرد به \"%s\""
       )
 MSG_HASH(
       MENU_ENUM_SUBLABEL_VIDEO_SHARED_CONTEXT,
@@ -128,14 +138,17 @@ MSG_HASH(
 MSG_HASH(
       MENU_ENUM_SUBLABEL_MENU_SETTINGS,
       "Adjusts menu screen appearance settings."
+      "تنظیمات ظاهر صفحه نمایش منو را تنظیم می کند."
       )
 MSG_HASH(
       MENU_ENUM_SUBLABEL_VIDEO_HARD_SYNC,
       "Hard-synchronize the CPU and GPU. Reduces latency at the cost of performance."
+      "سی پی یو و جی پی یو را هماهنگ کنید.زمان تأخیر را کاهش می دهد در ازای کاهش کارایی."
       )
 MSG_HASH(
       MENU_ENUM_SUBLABEL_VIDEO_THREADED,
       "Improves performance at the cost of latency and more video stuttering. Use only if you cannot obtain full speed otherwise."
+      "کارایی را در عوض تاخیر و گیر کردن بیشتر ویدیو, بهبود می بخشد. فقط اگر سرعت کامل را در غیر این صورت دریافت نمی کنید، استفاده کنید."
       )
 MSG_HASH(
       MSG_AUDIO_VOLUME,
